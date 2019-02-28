@@ -1,5 +1,4 @@
 Feature: Ssearching
-As a potential customer of Clear Channel
 I want to be able to search the website
 So that I can find the information I am looking for
 
