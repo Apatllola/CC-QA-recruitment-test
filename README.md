@@ -41,7 +41,7 @@ You can use any language, framework and libraries of your choice.
 Please create a markdown readme file named ``readme.md`` which includes clear instructions on how to execute your test scenarios. 
 
 ### TASK 4: Create a JSON file
-Please create a simple JSON file which which includes an array. This can be about any topic of your choosing e.g. describe your perfect car
+Please create a simple JSON file which includes an array. This can be about any topic of your choosing e.g. describe your perfect car
 
 ## What we are assessing:
 
